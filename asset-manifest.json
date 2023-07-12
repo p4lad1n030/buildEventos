@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/p4lad1n030.github.io/buildEventos/static/css/main.595fa3eb.css",
+    "main.js": "/p4lad1n030.github.io/buildEventos/static/js/main.0acf8d00.js",
+    "index.html": "/p4lad1n030.github.io/buildEventos/index.html",
+    "main.595fa3eb.css.map": "/p4lad1n030.github.io/buildEventos/static/css/main.595fa3eb.css.map",
+    "main.0acf8d00.js.map": "/p4lad1n030.github.io/buildEventos/static/js/main.0acf8d00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.595fa3eb.css",
+    "static/js/main.0acf8d00.js"
+  ]
+}
